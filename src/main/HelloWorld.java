@@ -15,5 +15,6 @@ public class HelloWorld {
       System.out.println(i);
     }
     System.out.println("test proxy");
+    System.out.println("全局测试");
   }
 }
