@@ -9,12 +9,6 @@ package main;
  **/
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello World!");
-    String abd = "s";
-    for (int i = 0; i < 100; i++) {
-      System.out.println(i);
-    }
-    System.out.println("test proxy");
-    System.out.println("全局测试");
+    System.out.println("What the fuck!");
   }
 }
