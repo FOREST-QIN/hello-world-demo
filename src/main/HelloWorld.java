@@ -8,5 +8,7 @@ package main;
  * @Version 1.0
  **/
 public class HelloWorld {
+  public static void main(String[] args) {
 
+  }
 }
